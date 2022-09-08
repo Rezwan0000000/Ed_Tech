@@ -1,0 +1,8 @@
+.btn .lnk{
+    background-color:whitesmoke;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 9px 25px;
+}
